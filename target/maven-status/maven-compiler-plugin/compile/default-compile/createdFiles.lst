@@ -1,0 +1,11 @@
+com\beatriz\campanha\mappers\TimeTimeResponseMapperImpl.class
+com\beatriz\campanha\services\TimeService.class
+com\beatriz\campanha\mappers\TimeTimeRequestMapper.class
+com\beatriz\campanha\mappers\TimeTimeRequestMapperImpl.class
+com\beatriz\campanha\repositories\TimeRepository.class
+com\beatriz\campanha\entities\Time.class
+com\beatriz\campanha\CampanhaApplication.class
+com\beatriz\campanha\controllers\TimeController.class
+com\beatriz\campanha\mappers\TimeTimeResponseMapper.class
+com\beatriz\campanha\dto\Responses\TimeResponse.class
+com\beatriz\campanha\dto\Requests\TimeRequest.class
